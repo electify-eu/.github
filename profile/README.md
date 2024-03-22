@@ -4,7 +4,7 @@
 Every 5 years the elections for the European parliament is 
 
 # How it works
-We provide a streamlit app, where voters can insert their questions
+We provide a streamlit app, where voters can ask their questions and will receive a summary of the parties position.
 
 # Highlight
 You can 
