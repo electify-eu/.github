@@ -8,6 +8,8 @@ We provide a streamlit app, where voters can ask their questions and will receiv
 
 In the background, we use a Retrieval Augmented Generation (RAG) engine that has access to thousands of political documents. Our algorithm searches for the documents most relevant to your input. With this information, an AI language model then generates concise summaries for the six biggest parties in Germany.
 
+[Check out our app](https://europarl-ai.streamlit.app/)
+
 # USP: get anonymous party positions 
 The app offers the option to get anonymous party positions on various issues. Users have the choice to reveal or conceal the identity of the party behind each stance. This feature allows for an unbiased evaluation of party positions, potentially leading to surprises and a fresh perspective on the parties themselves. It encourages voters to consider the substance of policies over party labels, fostering a more open-minded approach to political discourse.
 
