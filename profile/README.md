@@ -1,7 +1,7 @@
 # eurparl.ai: informed choices for the European elections 2024
 
 # The problem: voters are overwhelmed
-Every 5 years the elections for the European parliament is 
+he challenge facing voters is significant. Elections for the European Parliament are held only every five years, and the European Union (EU), with its intricate structures and processes, often feels distant and complex to the average citizen. This perceived remoteness can lead to the misconception that the EU plays a minor role in the daily lives of its people. However, this is far from the truth. Many decisions that directly impact the lives of EU citizens are made at the European level and then implemented as national law across member states.
 
 # How it works
 We provide a streamlit app, where voters can ask their questions and will receive a summary of the parties position.  We are on a mission to enhance the democratic process by developing an innovative application that uses AI. Just ask your question or enter a keyword in our europarl.ai interface, and our model will summarize the positions of the parties based on your input.
