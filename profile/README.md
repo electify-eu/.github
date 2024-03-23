@@ -4,7 +4,9 @@
 Every 5 years the elections for the European parliament is 
 
 # How it works
-We provide a streamlit app, where voters can ask their questions and will receive a summary of the parties position.
+We provide a streamlit app, where voters can ask their questions and will receive a summary of the parties position.  We are on a mission to enhance the democratic process by developing an innovative application that uses AI. Just ask your question or enter a keyword in our europarl.ai interface, and our model will summarize the positions of the parties based on your input.
+
+In the background, we use a Retrieval Augmented Generation (RAG) engine that has access to thousands of political documents. Our algorithm searches for the documents most relevant to your input. With this information, an AI language model then generates concise summaries for the six biggest parties in Germany.
 
 # Highlight
 You can reveal or 
